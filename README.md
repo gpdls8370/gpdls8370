@@ -34,14 +34,17 @@
   - 🎮 __알카노이드__  : CIEN 튜토리얼 프로젝트
     - `C#` `Unity`
 ### 2021
-  - 🎮 [__총알 탄 사나이(Bullet Teleport Shooter Project)__](https://github.com/sanon531/ProjectBTS) : CIEN Team 'Project BTS'
+  - 🎮 [__총알 탄 사나이__](https://github.com/sanon531/ProjectBTS)__(Bullet Teleport Shooter Project)__ : CIEN Team 'Project BTS'
     - `C#` `Unity` `Google Play Store` `App Store`
   
   - 🎮 __Senet__  : CIEN 튜토리얼 프로젝트
     - `C#` `Unity`
 ### 2022
-  - 📱 [__폴링(투표 특화 커뮤니티 앱)__](https://github.com/1105nam/polling-client) : 캡스톤 디자인 팀 프로젝트
+  - 📱 [__폴링__](https://github.com/1105nam/polling-client)__(투표 특화 커뮤니티 앱)__ : 캡스톤 디자인 팀 프로젝트
     - `JavaScript` `React Native` `Figma`
+   
+  - 📱 [__UNTIL__](https://github.com/UNTIL-CAU/UNTIL-Flutter)__(할일 관리 앱)__ : 산업체 핸즈온 팀 프로젝트
+    - `Dart` `Flutter`
 ### 2023
   - 🎮 __패턴 그리기(記)__ : CIEN Team 'Project PG'
     - `C#` `Unity` `On Going (2022.08~)`
