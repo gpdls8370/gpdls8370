@@ -17,30 +17,30 @@
 
 ## 🧩Project
 ### 2018
-  - 🎮 __순위제__ : UCA 개인 프로젝트
+  - 🎮 [__순위제__ ](https://github.com/gpdls8370/ChickenHierarchy): UCA 개인 프로젝트
     - `C#` `Unity`
     
 ### 2019
-  - 🎮 __WELL!__ : UCA 팀 프로젝트
+  - 🎮 [__WELL!__ ](https://github.com/gpdls8370/WELL): UCA 팀 프로젝트
     - `C#` `Unity` 
     
 ### 2020
-  - 🎮 __감자캐기게임__ : 기초컴퓨터프로그래밍 개인 프로젝트
+  - 🎮 [__감자캐기게임__](https://github.com/gpdls8370/Potato) : 기초컴퓨터프로그래밍 개인 프로젝트
     - `C++` `Bangtal Library`
    
-  - 🎮 __카우마리오__ : 기초컴퓨터프로그래밍 팀 프로젝트
+  - 🎮 [__카우마리오__](https://github.com/gpdls8370/cauMario) : 기초컴퓨터프로그래밍 팀 프로젝트
     - `C++` `Bangtal Library`
   
   - 🎮 __알카노이드__  : CIEN 튜토리얼 프로젝트
     - `C#` `Unity`
 ### 2021
-  - 🎮 __총알 탄 사나이(Bullet Teleport Shooter Project)__ : CIEN Team 'Project BTS'
+  - 🎮 [__총알 탄 사나이(Bullet Teleport Shooter Project)__](https://github.com/sanon531/ProjectBTS) : CIEN Team 'Project BTS'
     - `C#` `Unity` `Google Play Store` `App Store`
   
   - 🎮 __Senet__  : CIEN 튜토리얼 프로젝트
     - `C#` `Unity`
 ### 2022
-  - 📱 __폴링(투표 특화 커뮤니티 앱)__ : 캡스톤 디자인 팀 프로젝트
+  - 📱 [__폴링(투표 특화 커뮤니티 앱)__](https://github.com/1105nam/polling-client) : 캡스톤 디자인 팀 프로젝트
     - `JavaScript` `React Native` `Figma`
 ### 2023
   - 🎮 __패턴 그리기(記)__ : CIEN Team 'Project PG'
