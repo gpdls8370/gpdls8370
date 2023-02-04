@@ -31,19 +31,19 @@
   - 🎮 [__카우마리오__](https://github.com/gpdls8370/cauMario) : 기초컴퓨터프로그래밍 팀 프로젝트
     - `C++` `Bangtal Library`
   
-  - 🎮 __알카노이드__  : CIEN 튜토리얼 프로젝트
+  - 🎮 [__Hero of the Space__ ](https://github.com/gpdls8370/SpaceHero) : 2020 CIEN 튜토리얼 프로젝트
     - `C#` `Unity`
 ### 2021
-  - 🎮 [__총알 탄 사나이__](https://github.com/sanon531/ProjectBTS)__(Bullet Teleport Shooter Project)__ : CIEN Team 'Project BTS'
+  - 🎮 [__총알 탄 사나이__](https://github.com/sanon531/ProjectBTS)__(Bullet Teleport Shooter)__ : CIEN Team 'Project BTS'
     - `C#` `Unity` `Google Play Store` `App Store`
   
-  - 🎮 __Senet__  : CIEN 튜토리얼 프로젝트
+  - 🎮 [__Senet__ ](https://github.com/streetmeow/Senet) : 2021 CIEN 튜토리얼 프로젝트
     - `C#` `Unity`
 ### 2022
-  - 📱 [__폴링__](https://github.com/1105nam/polling-client)__(투표 특화 커뮤니티 앱)__ : 캡스톤 디자인 팀 프로젝트
-    - `JavaScript` `React Native` `Figma`
+  - 📱 [__폴링__](https://github.com/1105nam/polling-client)__(투표 특화 커뮤니티 앱)__ : 캡스톤디자인 팀 프로젝트
+    - `JavaScript` `React Native`
    
-  - 📱 [__UNTIL__](https://github.com/UNTIL-CAU/UNTIL-Flutter)__(할일 관리 앱)__ : 산업체 핸즈온 팀 프로젝트
+  - 📱 [__UNTIL__](https://github.com/UNTIL-CAU/UNTIL-Flutter)__(할일 관리 앱)__ : 산업체핸즈온 팀 프로젝트
     - `Dart` `Flutter`
 ### 2023
   - 🎮 __패턴 그리기(記)__ : CIEN Team 'Project PG'
