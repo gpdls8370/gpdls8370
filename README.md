@@ -9,9 +9,10 @@
 
 ## 📚Tech Stack
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=Csharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=Unrealengine&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
 
@@ -46,5 +47,11 @@
   - 📱 [__UNTIL__](https://github.com/UNTIL-CAU/UNTIL-Flutter)__(할일 관리 앱)__ : 산업체핸즈온 팀 프로젝트
     - `Dart` `Flutter`
 ### 2023
-  - 🎮 __패턴 그리기(記)__ : CIEN Team 'Project PG'
-    - `C#` `Unity` `On Going (2022.08~)`
+  - 🎮 [__패턴 그리기(記)__](https://github.com/sanon531/PatternGrigi) : CIEN Team 'Project PG'
+    - `C#` `Unity`
+      
+  - 🎮 __ProjectDS__ : (주)뉴토 인턴십 모바일 게임 개발 프로젝트
+    - `C#` `Unity`
+   
+  - 🎮 [__Unreal Study__](https://github.com/gpdls8370/UnrealEngine_Study) : 언리얼 엔진 스터디 토이 프로젝트
+    - `C++` `Unreal` `On Going`
