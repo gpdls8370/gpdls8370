@@ -1,6 +1,6 @@
 
 ## 👏Introduction
-안녕하세요! 게임을 사랑하는 Game Client 개발자 꿈나무 박혜인입니다!🌳
+안녕하세요! 게임을 사랑하는 Game Client 콘텐츠 개발자 꿈나무 박혜인입니다!🌳
 
 고등학교 2학년부터 게임 개발을 접해서 차근차근 성장하고 있습니다!
 
@@ -50,8 +50,8 @@
   - 🎮 [__패턴 그리기(記)__](https://github.com/sanon531/PatternGrigi) : CIEN Team 'Project PG'
     - `C#` `Unity`
       
-  - 🎮 __ProjectDS__ : (주)뉴토 인턴십 모바일 게임 개발 프로젝트
+  - 🎮 __Dot Warriors__ : (주)뉴토 인턴십 모바일 게임 개발 프로젝트
     - `C#` `Unity`
    
   - 🎮 [__Unreal Study__](https://github.com/gpdls8370/UnrealEngine_Study) : 언리얼 엔진 스터디 토이 프로젝트
-    - `C++` `Unreal` `On Going`
+    - `C++` `Unreal5` `On Going`
