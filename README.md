@@ -53,5 +53,8 @@
   - 🎮 __Dot Warriors__ : (주)뉴토 인턴십 모바일 게임 개발 프로젝트
     - `C#` `Unity`
    
-  - 🎮 [__Unreal Study__](https://github.com/gpdls8370/UnrealEngine_Study) : 언리얼 엔진 스터디 토이 프로젝트
+  - 🎮 [__Unreal Study__](https://github.com/gpdls8370/UnrealEngine_Study) : 언리얼 엔진5 독학
+    - `C++` `Unreal5` `On Going`
+      
+  - 🎮 [__Wiz Adventure__](https://github.com/gpdls8370/WizAdventure) : 언리얼 엔진5 토이 프로젝트
     - `C++` `Unreal5` `On Going`
